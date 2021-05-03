@@ -1,0 +1,5 @@
+Install:
+  * download the zip
+  * open the Arduino IDE
+  * click sketch --> libraries --> add .zip-library
+  * select the downloaded .zip
