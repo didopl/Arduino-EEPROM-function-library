@@ -1,10 +1,10 @@
 Install:
-first way:
-1. download the zip
-2. open the Arduino IDE
-3. click sketch --> libraries --> add .zip-library
-4. select the downloaded .zip
-second way:
-1. clone the repository
-2. copy the folder into the Arduino-library-directory
-3. restart the Arduino IDE
+  first way:
+    1. download the zip
+    2. open the Arduino IDE
+    3. click sketch --> libraries --> add .zip-library
+    4. select the downloaded .zip
+  second way:
+    1. clone the repository
+    2. copy the folder into the Arduino-library-directory
+    3. restart the Arduino IDE
